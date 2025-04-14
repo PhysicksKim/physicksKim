@@ -9,16 +9,26 @@ Backend Developer
 
 <br>
   
-## 🔭 Projects   
-### 1. [ChunCity](https://github.com/PhysicksKim/chun-city)   
+## 🔭 Projects    
+### ⚽ 축구 경기 정보 오버레이  
+[🔗 ChunCity](https://github.com/PhysicksKim/chun-city)   
 축구 매치 라인업 정보 오버레이  
-  
-### 2. [Football Scoreboard](https://github.com/PhysicksKim/FootballScoreBoard-gyechunhoe)  
-> SourceCode Repo' [HERE](https://github.com/PhysicksKim/FootballStreamOverlay)
 
-축구 스코어보드 및 타이머  
+<br>
   
-### 3. [Streamer Profile WebPage](https://github.com/PhysicksKim/gyechunsik-main-page)  
+#### 💡 스코어보드 
+[🔗 SourceCode Repository](https://github.com/PhysicksKim/FootballStreamOverlay)  
+[🔗 Static page](https://github.com/PhysicksKim/FootballScoreBoard-gyechunhoe)   
+
+<br>
+
+#### 🔧 백엔드
+[Backend Repository](https://github.com/PhysicksKim/score-board-backend)
+
+<br> 
+
+> #### 기타
+> [Streamer Profile WebPage](https://github.com/PhysicksKim/gyechunsik-main-page)  
   
 <br>  
   
