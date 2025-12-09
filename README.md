@@ -1,11 +1,12 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:007cf0&height=240&section=header&text=PhysicksKim&desc=Backend%20Developer&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=49&descAlign=66.5)
-  
+  <!--
   <h3> 📊 Language </h3> 
   <a href="https://github.com/physickskim">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=physickskim&layout=compact&theme=nord&hide_border=true" />
   </a>
+  -->
   
   <h3> 🎖 Baekjoon </h3> 
   <a href="https://solved.ac/physickskim">
