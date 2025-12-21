@@ -1,12 +1,12 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:007cf0&height=240&section=header&text=PhysicksKim&desc=Backend%20Developer&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=49&descAlign=66.5)
-  <!--
+  
   <h3> 📊 Language </h3> 
   <a href="https://github.com/physickskim">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=physickskim&layout=compact&theme=nord&hide_border=true" />
   </a>
-  -->
+  
   
   <h3> 🎖 Baekjoon </h3> 
   <a href="https://solved.ac/physickskim">
@@ -99,11 +99,11 @@
 
   <br>
 
-  <a href="https://gyechunhoe.com" target="_blank">
-    <img src="https://img.shields.io/badge/🔗 Streamer Gyechunhoe Page-0f1839?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://gyechune.com" target="_blank">
+    <img src="https://img.shields.io/badge/🔗 Streamer Gyechune Page-0f1839?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
-  <a href="https://github.com/PhysicksKim/gyechunhoe-main-page" target="_blank">
+  <a href="https://github.com/PhysicksKim/gyechune-main-page" target="_blank">
     <img src="https://img.shields.io/badge/👈 repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
