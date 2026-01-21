@@ -4,7 +4,7 @@
   
   <h3> 📊 Language </h3> 
   <a href="https://github.com/physickskim">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=physickskim&layout=compact&theme=nord&hide_border=true" />
+    <img align="center" src="https://physickskim-github-readme-stats.vercel.app/api/top-langs/?username=physickskim&layout=compact&exclude_repo=unity-vseeface-receiver&theme=nord&hide_border=true"/>
   </a>
   
   
